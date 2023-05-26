@@ -29,9 +29,9 @@ The course has several learning objectives:
 
 <img src="https://images.unsplash.com/photo-1603604342747-b285bb892e2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80" alt="steel infrastructure" style="zoom:50%;" />
 
+​	
 
-
-This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started.
+This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started. You can see the full Course Outline here.
 
 1. Week 1 - Setting the table/Diving In.
 2. Week 2 - Exploring Educational Data/Getting Started with Data Analysis in Python and R.
