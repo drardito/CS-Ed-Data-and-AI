@@ -28,15 +28,17 @@ Lastly, each of us will **produce and share artifacts** that demonstrate this pr
 
 Each of our explorations will have the same general structure:
 
-***Readings*** - some will come from me; some will come from you)
+***Readings*** - Some will come from me; some will come from you.
 
-***Learning Standards*** - you will (re)acquaint yourselves with the relevant NYSED Learning Standards)
+***Learning Standards*** - you will (re)acquaint yourselves with the relevant [NYSED Learning Standards.](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/New%20York%20State%20Computer%20ScienceDigital%20Fluency%20Learning%20Standards.md)
 
-***Skills*** - I will outline the key skills involved in each area; you can add to these as you see fit
+***Skills*** - I will outline the key skills involved in each area; you can add to these as you see fit.
+
+***Coding*** - We will be using coding tools in our work. At minimum, you will be using *Python* and *R*, which are two of the mostly commonly used programming languages for dealing with data and data visualization.
 
 ***Artifacts of Your Journey*** - You will create and share a set of artifacts from your explorations
 
-***Learning Activities*** - You will design learning activities for each grade level (elementary, middle school, high school) in each area
+***Learning Activities*** - You will design learning activities for each grade level (elementary, middle school, high school) in each area.
 
 ***Sharing/Reflecting*** - As you are working through things, you will share and reflect on what you are doing and learning.
 
@@ -46,3 +48,15 @@ Each of our explorations will have the same general structure:
 
 The tools you use to create and share your work are entirely up to you. My preference would be in the direction of tools that allow commenting and/or collaboration. That being said, it's your work, and so I will live with whatever works best for you. Please keep in mind that you will be sharing *text* and *code* and *images*, at the minimum.
 
+
+
+## How do I get started?
+
+<img src="https://images.unsplash.com/photo-1496355723323-30286a0b340d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="hot air balloon filling" style="zoom:67%;" />
+
+
+
+To get started, go to the page for the project you are working on:
+
+1. Data and Education
+2. AI and Education
