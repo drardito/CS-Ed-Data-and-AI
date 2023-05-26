@@ -31,7 +31,7 @@ The course has several learning objectives:
 
 ​	
 
-This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started. You can see the full Course Outline here.
+This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started. You can see the full [Course Outline here](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Data%20and%20Education%20Course%20Outline.md).
 
 1. Week 1 - Setting the table/Diving In.
 2. Week 2 - Exploring Educational Data/Getting Started with Data Analysis in Python and R.
@@ -55,7 +55,9 @@ Since Python and R are so widely used, there are many, many tools (both desktop 
 
 
 
-Python is one of the most popular programming languages and has very powerful tools (libraries) for dealing with and visualizing data. There are also many IDEs (integrated development environments) available for Python.
+Python is one of the most popular programming languages and has very powerful tools (libraries) for dealing with and visualizing data. You should [download and install Python](https://www.python.org/downloads/) on your computer. 
+
+Then, you should download and install a Python IDE. There are also many IDEs (integrated development environments) available for Python. Here are some I have used to get you started (you only need one),
 
 [Anaconda.](https://www.anaconda.com) Anaconda is an integrated set of tools for data science, and is available for all operating systems.
 
@@ -69,7 +71,7 @@ Python is one of the most popular programming languages and has very powerful to
 
 <img src="https://posit.co/wp-content/uploads/2023/02/thumbnail-21.png" alt="rstudio screenshot" style="zoom:50%;" />
 
-[RStudio](https://posit.co/download/rstudio-desktop/) is really the gold standard for working with R. It is available for any operating system. There is also a cloud version as well, called [PositCloud.](https://posit.cloud)
+[RStudio](https://posit.co/download/rstudio-desktop/) is really the gold standard for working with R. It is available for any operating system. There is also a cloud version as well, called [PositCloud.](https://posit.cloud) As with Python, you will start by dowloading and installing R, and then RStudio.
 
 #### Books
 
