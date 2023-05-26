@@ -11,7 +11,7 @@ Here is what you will do this week:
 
 1. **Review the Course.** Be sure to look over (and bookmark) the course [GitHub repository.](https://github.com/drardito/CS-Ed-Data-and-AI/tree/main) Start with the [landing page](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Exploring%20Data%20and%20AI%20in%20Education.md).
 
-2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. 
+2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. And don't forget to join [our Slack channel](https://join.slack.com/t/newworkspace-kbf1630/shared_invite/zt-1vx3yccpi-nki_qF3DAD~AFsKTgelqRQ).
 
 3. **Play with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
 
