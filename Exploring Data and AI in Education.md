@@ -58,5 +58,5 @@ The tools you use to create and share your work are entirely up to you. My prefe
 
 To get started, go to the page for the project you are working on:
 
-1. Data and Education
+1. [Data and Education](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Data%20and%20Education.md)
 2. AI and Education
