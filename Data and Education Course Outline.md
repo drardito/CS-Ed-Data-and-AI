@@ -9,9 +9,11 @@ This week will lay the foundation of everything that is to follow.
 
 Here is what you will do this week:
 
-1. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. 
+1. **Review the Course.** Be sure to look over (and bookmark) the course GitHub repository. Start with the [landing page](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Exploring%20Data%20and%20AI%20in%20Education.md).
 
-2. **Play with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
+2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. 
+
+3. **Play with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
 
    | Coding Language | Resource(s)                                                  | Assignment                                                   |
    | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -20,11 +22,11 @@ Here is what you will do this week:
 
    
 
-3. **Visualizing Data with Common Objects**. 
+4. **Visualizing Data with Common Objects**. 
 
    <img src="https://flowingdata.com/wp-content/uploads/2017/06/Bladder-e1523574916903-720x597.png" alt="fruit graph" style="zoom:50%;" />
 
-   Too often we think of data visualization as a technological process instead of a human one. So, your task is to find some data that are of some interest to you (they can be education related or not). Then you will create a way of visualizing these data using everyday objects. (This example from [Flowing Data](https://flowingdata.com/2018/04/17/visualizing-differences/)). Play around, be creative, share your creations.
+   Too often we think of data visualization as a technological process instead of a human one. So, your task is to find some data that are of some interest to you (they can be education related or not). Then you will create at least two ways of visualizing these data using everyday objects. (This example from [Flowing Data](https://flowingdata.com/2018/04/17/visualizing-differences/)). Play around, be creative, share your creations.
 
 
 
