@@ -36,6 +36,13 @@ Each of our explorations will have the same general structure:
 
 ***Artifacts of Your Journey*** - You will create and share a set of artifacts from your explorations
 
-***Learning Activities ***- You will design learning activities for each grade level (elementary, middle school, high school) in each area
+***Learning Activities*** - You will design learning activities for each grade level (elementary, middle school, high school) in each area
 
-***Sharing/Reflecting** - 
+***Sharing/Reflecting*** - As you are working through things, you will share and reflect on what you are doing and learning.
+
+***Slack Channel*** - I have set us up with a [Slack Channel](https://join.slack.com/t/newworkspace-kbf1630/shared_invite/zt-1vx3yccpi-nki_qF3DAD~AFsKTgelqRQ) so we can stay in easy communication with one another. 
+
+
+
+The tools you use to create and share your work are entirely up to you. My preference would be in the direction of tools that allow commenting and/or collaboration. That being said, it's your work, and so I will live with whatever works best for you. Please keep in mind that you will be sharing *text* and *code* and *images*, at the minimum.
+
