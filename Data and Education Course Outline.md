@@ -9,7 +9,7 @@ This week will lay the foundation of everything that is to follow.
 
 Here is what you will do this week:
 
-1. **Review the Course.** Be sure to look over (and bookmark) the course GitHub repository. Start with the [landing page](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Exploring%20Data%20and%20AI%20in%20Education.md).
+1. **Review the Course.** Be sure to look over (and bookmark) the course [GitHub repository.](https://github.com/drardito/CS-Ed-Data-and-AI/tree/main) Start with the [landing page](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Exploring%20Data%20and%20AI%20in%20Education.md).
 
 2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. 
 
