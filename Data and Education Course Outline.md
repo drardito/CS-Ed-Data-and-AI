@@ -13,7 +13,9 @@ Here is what you will do this week:
 
 2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. And don't forget to join [our Slack channel](https://join.slack.com/t/newworkspace-kbf1630/shared_invite/zt-1vx3yccpi-nki_qF3DAD~AFsKTgelqRQ).
 
-3. **Play with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
+3. **Reading.** Please read [this brief article](https://slate.com/technology/2019/10/gender-binary-nonbinary-code-databases-values.html?utm_medium=social&utm_campaign=traffic&utm_source=article&utm_content=web_share) about how data structures relate to gender identities in computer systems and in real life.
+
+4. **Play with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
 
    | Coding Language | Resource(s)                                                  | Assignment                                                   |
    | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -22,7 +24,7 @@ Here is what you will do this week:
 
    
 
-4. **Visualizing Data with Common Objects**. 
+5. **Visualizing Data with Common Objects**. 
 
    <img src="https://flowingdata.com/wp-content/uploads/2017/06/Bladder-e1523574916903-720x597.png" alt="fruit graph" style="zoom:50%;" />
 
