@@ -11,7 +11,7 @@ Here is what you will do this week:
 
 1. **Review the Course.** Be sure to look over (and bookmark) the course [GitHub repository.](https://github.com/drardito/CS-Ed-Data-and-AI/tree/main) Start with the [landing page](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Exploring%20Data%20and%20AI%20in%20Education.md).
 
-2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. And don't forget to join [our Slack channel](https://join.slack.com/t/newworkspace-kbf1630/shared_invite/zt-1vx3yccpi-nki_qF3DAD~AFsKTgelqRQ).
+2. **Getting set up** with resources and tools. Locate the books mentioned here (and bookmark them for easy access); explore the web resources; and download/install Python and R, and their associated IDEs. And don't forget to join [our Slack channel](https://join.slack.com/t/newworkspace-kbf1630/shared_invite/zt-1vx3yccpi-nki_qF3DAD~AFsKTgelqRQ). Once you get set up, please post your intentions for this course to the #data-and-education channel.
 
 3. **Reading.** Please read [this brief article](https://slate.com/technology/2019/10/gender-binary-nonbinary-code-databases-values.html?utm_medium=social&utm_campaign=traffic&utm_source=article&utm_content=web_share) about how data structures relate to gender identities in computer systems and in real life. By the way, if this article interests you, you might have a look at [this talk by the author, Meredith Broussard.](https://youtu.be/DP0cuUOXS6Q)
 
