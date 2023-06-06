@@ -19,7 +19,7 @@ Here is what you will do this week:
 
    | Coding Language | Resource(s)                                                  | Assignment                                                   |
    | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | Python          | [Python Data Visualization Tutorial](https://towardsdatascience.com/how-to-do-visualization-using-python-from-scratch-651304b5ee7https://towardsdatascience.com/how-to-do-visualization-using-python-from-scratch-651304b5ee7aa) | Work through this entire tutorial. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | Python          | [Python Data Visualization Tutorial](https://towardsdatascience.com/how-to-do-visualization-using-python-from-scratch-651304b5ee7a) | Work through this entire tutorial. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
    | R               | [R for Data Science, chapter 3](https://r4ds.had.co.nz/data-visualisation.html) | Work through the the various tools and examples in Chapter 3. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
 
    
