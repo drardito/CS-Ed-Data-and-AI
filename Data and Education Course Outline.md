@@ -32,7 +32,25 @@ Here is what you will do this week:
 
 
 
-### Week 2 - Exploring Educational Data/Getting Started with Data Analysis in Python and R
+### Week 2 - Manipulating and Exploring Data in Python and R.
+
+<img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" alt="sample data" style="zoom:67%;" />
+
+This week we will using libraries in Python and R to create and manipulate data of various kinds. To do this we will take a deep dive into core libraries in Python and R that allow us to manipulate and transform data.
+
+Here is what you will do this week:
+
+1. **Reading - The Simple Things You Need to Know as a Data Science Beginner.** Please start this week's work by reading this (to my mind) [interesting and thought provoking article](https://towardsdatascience.com/the-simple-things-you-need-to-know-as-a-data-science-beginner-c4b9ffd0b516) from our friends at [Towards Data Science](https://towardsdatascience.com/). Feel free to **share your reactions** on Slack.
+
+2. **Play/Work with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
+
+   | Coding Language | Resource(s)                                                  | Assignment                                                   |
+   | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | Python          | [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | Pandas is a core library for manipulating and slicing and dicing data. Work through this entirety of Chapter 3. **NOTE: The chapter crosses several pages. Follow the navigation widges on the bottom of each page**. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | R               | [R for Data Science, chapter 5: Data Transformation](https://r4ds.had.co.nz/transform.html) | Work through the the various tools and examples in Chapter 5. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+
+
+
 
 ### Week 3 - Visualizing Educational Data/Getting Started with Data Analysis in Python and R
 
