@@ -51,8 +51,25 @@ Here is what you will do this week:
 
 
 
+### Week 3 - Exploratory Data Analysis in Python and R
 
-### Week 3 - Visualizing Educational Data/Getting Started with Data Analysis in Python and R
+Now that we have done some work to manipulate data in Python and R, we will turn our attention this week to the exploration of data using those two powerful programming languages. 
+
+Here is what you will do this week:
+
+1. **Reading - An Extensive Step by Step Guide to Exploratory Data Analysis** Please start this week's work by reading [this very useful and interesting article](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)that provides a practical overview of exploratory data analysis from our friends at [Towards Data Science](https://towardsdatascience.com/). Feel free to **share your reactions** on Slack.
+
+2. **Play/Work with Python and R**. Here is some work that will allow us to explore data in Python and R. Here's what to do:
+
+   | Coding Language | Resource(s)                                                  | Assignment                                                   |
+   | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | Python          | Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python, [Part 1](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699) and [Part 2](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-part-2-8eec19431c23) | We will be building on last week's work with Pandas to explore temporal patterns in Twitter Posts. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | R               | [R for Data Science, chapter 7: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | Work through the the various tools and examples in Chapter 7. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+
+
+
+
+
 
 ### Week 4 - Your Data Analysis and Visualization Project
 
