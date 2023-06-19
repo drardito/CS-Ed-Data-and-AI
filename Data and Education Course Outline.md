@@ -36,7 +36,7 @@ Here is what you will do this week:
 
 <img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" alt="sample data" style="zoom:67%;" />
 
-This week we will using libraries in Python and R to create and manipulate data of various kinds. To do this we will take a deep dive into core libraries in Python and R that allow us to manipulate and transform data.
+This week we will using libraries in Python and R that allow us to explore text as data. I have added text to our datasets because in education, there are plenty of text that we could analyze productively, from literature to student work to learning standards. 
 
 Here is what you will do this week:
 
@@ -44,9 +44,9 @@ Here is what you will do this week:
 
 2. **Play/Work with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
 
-   | Coding Language | Resource(s)                                                  | Assignment                                                   |
+   | Coding Language | Resource(s)                                                  | Assignments                                                  |
    | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | Python          | [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | Pandas is a core library for manipulating and slicing and dicing data. Work through this entirety of Chapter 3. **NOTE: The chapter crosses several pages. Follow the navigation widges on the bottom of each page**. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | Python          | [Getting Started with Text Analysis in Python](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7) | Our friends at Towards Data Science have put together this primer on textual analysis in Python, which does a really good job providing context as well as practical examples of the kinds of things that can be done. Be sure to complete the various sets of examples in this article, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
    | R               | [R for Data Science, chapter 5: Data Transformation](https://r4ds.had.co.nz/transform.html) | Work through the the various tools and examples in Chapter 5. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
 
 
@@ -70,12 +70,28 @@ Here is what you will do this week:
 
 
 
+### Week 4 - Text as Data
 
-### Week 4 - Your Data Analysis and Visualization Project
+<img src="https://i0.wp.com/plottingplots.com/wp-content/uploads/2021/04/love-death-rj.png?resize=1024%2C833&ssl=1" alt="screenshot from the PlottingPlots website" style="zoom:67%;" />
 
-### Week 5 - The Home Stretch. Finishing up your data analysis and visualization project
+Now that we have done some work to manipulate data in Python and R, we will turn our attention this week to the exploration of text as data using those two powerful programming languages. 
+
+Here is what you will do this week:
+
+1. **Reading Computationally** My former colleague, Tom Liam Lynch, has created this very cool website [Plotting Plots](https://plottingplots.com), where teachers and students can explore various texts and literary works computationally. Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. Feel free to **share your reactions** on Slack.
+
+2. **Play/Work with Python and R**. Here is some work that will allow us to explore data in Python and R. Here's what to do:
+
+   | Coding Language | Resource(s)                                                  | Assignment                                                   |
+   | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | Python          | Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python, [Part 1](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699) and [Part 2](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-part-2-8eec19431c23) | We will be building on last week's work with Pandas to explore temporal patterns in Twitter Posts. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | R               | [TidyText Mining, Chapter 1](https://www.tidytextmining.com/tidytext.html) | TidyText is a set of libraries in R that allow us to work with text as data in very cool and productive ways. Work through the the various tools and examples in Chapter 1. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
 
 
+
+### Week 5 - Your Data Analysis and Visualization Project
+
+For four final project, you will locate and manipulate and visualize educational data. The type of data you select is completely up to you. However, I strongly suggest using very large data sets, as they are the most ripe for manipulation/reorganization and the exploration of big questions.
 
 
 
