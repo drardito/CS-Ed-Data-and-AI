@@ -93,5 +93,13 @@ Here is what you will do this week:
 
 For four final project, you will locate and manipulate and visualize educational data. The type of data you select is completely up to you. However, I strongly suggest using very large data sets, as they are the most ripe for manipulation/reorganization and the exploration of big questions.
 
+Here are some possible data sources for you to explore.
+
+| Data Source                                                  | Types of Data                                                | Notes                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [data.nysed.gov](https://data.nysed.gov/)                    | - Student data (enrollment/demographic data pertaining to students)<br />- School data (test scores, school report card data, high school graduation data) | Some of these data sets are quite large, which make them ripe for data science skills and exploration |
+| [The Nation's Report Card](https://www.nationsreportcard.gov/) | Student performance data across subject areas (see [this very recent report](https://www.nytimes.com/2023/06/21/us/naep-test-results-education.html) on the decline in student math test scores) | There are data exploration tools included on the site.       |
+| [Data.gov](https://data.gov/)                                | There is a wide variety of education related datasets available, including public school characteristics, student loan program data, and school attendance. | This is a clearinghouse for all types of data collected by the US government. |
+
 
 
