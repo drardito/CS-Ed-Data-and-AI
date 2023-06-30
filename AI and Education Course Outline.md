@@ -120,7 +120,9 @@ This final project could be:
 
 1. **Research.** You can design and conduct a research project that allows you to discover and synthesize research and other writings about how A will affect K-12 teaching (especially the teaching of computer science). OR
 2. **AI Tool Exploration**. You could identify, explore, and report on AI tools that you might want to use with your students and how you might use them. In addition to reporting on what tools you investigated and discussing how you might incorporate them into your teaching, please include examples of learning activities of your own design.
-3. **Something else**. This is a build your own adventure that marries AI and Education. 
+3. **Build Your Own AI Assistant.** Here are the instructions for creating your own AI assistant using Python:
+   https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+4. **Build Your Own Adventure**. This is a build your own adventure that marries AI and Education. 
 
 
 
