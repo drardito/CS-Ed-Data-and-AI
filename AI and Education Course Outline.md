@@ -81,6 +81,11 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejed.12532
 ***Course outlines written by ChatGPT *Updated* by Terry Friedman***
 https://terryfreedman.substack.com/p/course-outlines-written-by-chatgpt
 
+***Post-AI Assessment Design***
+https://drphilippahardman.substack.com/p/post-ai-assessment-design
+
+
+
 If/as you come across anything else we should be reading, share it in Slack.
 
 ### Part 3 - Machine (AI) Writing
