@@ -46,6 +46,8 @@ For **Part 1**, we will get started by working to understanding how the lastest 
 
 3. **More dense, but really good**. Computer Science Stephen Wolfram has written [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), which provides a detailed explanation how AI models work.
 
+4. **BONUS - [Unveiling the Power of Large Language Models (LLMs)](https://www.unite.ai/large-language-models/)**. A good explainer on Large Language Models.
+
 Please do these readings, then create a journal to record your thoughts, questions, reactions, wonderings, etc. and share it with me. 
 
 ### Part 2: AI and Education
