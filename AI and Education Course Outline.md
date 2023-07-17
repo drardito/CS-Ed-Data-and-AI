@@ -98,6 +98,10 @@ Now that we have been reading about AI tools and how these might/will affect tea
 
 Here is what you will do this week:
 
+1. **Reading**. [This interesting study](https://drive.google.com/file/d/13N-CLUCRQtawgZ_ab7hQa0BPt7WOw0L0/view?usp=sharing) has just been published that investigated the question: "“What are the current opinions and evidence about the opportunities and the challenges represented by the development and implementation of AI systems in educational settings?” Please read this article, along with [this thoughtful response](https://jondron.ca/the-artificial-curriculum/) by learning technologies scholar [Jon Dron](https://jondron.ca/research/), then reflect on both in your journal.
+   
+   
+   
 1. **Writing with AI tools/ChatGPT**. Here is some work that will allow you to first explore some AI writing tools and then to take a deep dive into using AI tools to perform searches, create documents, design activities for your students, and more. As you do this work, be sure to document your learning and substantively reflect on what you have done and seen and thought in your journal.
    
    | Chunks                                                 | Assignment                                                                                                                                                                                                                                                                                                                                                                                         |
