@@ -89,6 +89,9 @@ I have used this book in my own work and in enrichment programs with high school
 
 I have used parts of this book and have found it really useful.
 
+3. [Teaching Data Literacy](https://dataschools.education/wp-content/uploads/2023/06/Teach_Data_Literacy_A_Guide_For_Primary_Teachers.pdf)
+This book was produced by the the [Data Education in Schools project](https://dataschools.education/), which is part of the UK's efforts to powerfully teaching Computer Science across all grade levels. I find their work to be very impressive.
+
 #### Web Resources
 
 There are many, many great resources on the web to support your development as data scientists. Here are some I have used and found extremely helpful.
