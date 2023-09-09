@@ -31,7 +31,7 @@ The course has several learning objectives:
 
 ​	
 
-This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started. [**COURSE OUTLINE UNDER CONSTRUCTION**]
+This course is designed to support your own learning, and so, ultimately, the course will be shaped by you. With that in mind, I have created an initial structure to get us started.  You can find the [**Course Outline** here](https://github.com/drardito/CS-Ed-Data-and-AI/blob/main/Data%20and%20Education%20Course%20Outline%20Fall%202023.md).
 
 1. Unit 1 - Setting the table/Diving In.
 
