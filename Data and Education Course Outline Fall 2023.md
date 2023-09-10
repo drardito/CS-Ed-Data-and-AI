@@ -5,7 +5,7 @@
 
 ### Unit 1 - Setting the table/Diving In
 
-This week will lay the foundation of everything that is to follow.
+In this Unit, will lay the foundation of everything that is to follow.
 
 Here is what you will do this week:
 
@@ -28,7 +28,7 @@ Here is what you will do this week:
 
    <img src="https://flowingdata.com/wp-content/uploads/2017/06/Bladder-e1523574916903-720x597.png" alt="fruit graph" style="zoom:50%;" />
 
-   Too often we think of data visualization as a technological process instead of a human one. So, your task is to find some data that are of some interest to you (they can be education related or not). Then you will create at least two ways of visualizing these data using everyday objects. (This example from [Flowing Data](https://flowingdata.com/2018/04/17/visualizing-differences/)). Play around, be creative, share your creations.
+   Too often we think of data visualization as a technological process instead of a human one. So, your task is to find some data that are of some interest to you (they can be education related or not). Then you will create at least two ways of visualizing these data using everyday objects. (See this example from [Flowing Data](https://flowingdata.com/2018/04/17/visualizing-differences/)). Play around, be creative, share your creations.
 
 
 
